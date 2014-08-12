@@ -85,7 +85,10 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 | [iSICP](http://xuanji.appspot.com/isicp/) | Static HTML | Interactive Structure and Interpretation of Computer Programs | [Github](https://github.com/zodiac/isicp) |
 | [makrio](https://makr.io) || Source code for https://makr.io.| [Github](https://github.com/makrio/makrio) |
 | [Peer.fm](http://peer.fm) || Music-streaming service with unique social features and real-time syncing.| [Github](https://github.com/buu700/napster.fm/) |
-| [TuneCrawl](http://www.tunecrawl.com/)| Plain HTML, JavaScript) | Find and play music from the most popular music streaming providers.| [Github](https://github.com/ProbablyOliver/TuneCrawl) |
+| [TuneCrawl](http://www.tunecrawl.com/)| Plain HTML, JavaScript) | Find and play music from the most popular music streaming providers.| [Github](https://github.com/ProbablyOliver/TuneCrawl) || [TuneCrawl](http://www.tunecrawl.com/)| Plain HTML, JavaScript) | Find and play music from the most popular music streaming providers.| [Github](https://github.com/ProbablyOliver/TuneCrawl) |
+| [PixelDo](http://pixeldo.com/)| Plain HTML, JavaScript | For 360 Deg Aerial Panoramic Photography | 
+| [JS Panorama Viewver](http://mrdoob.github.io/three.js/examples/webgl_panorama_equirectangular.html)| Plain HTML, JavaScript | Viewving 360 Deg Equirectangular Panorama's using three.js| [Github] (http://mrdoob.github.io/three.js/) |
+
 
 # Quick mentions
 * [Coursewa.re](https://github.com/Courseware)
